@@ -1,0 +1,25 @@
+.chartBtn {
+    font-size: 18px;
+    margin-right: 40px;
+    padding: 5px;
+    color: white;
+}
+.chartBtn:hover, .chartBtnAct {
+    color: #c393fa;
+}
+
+.chart-page .layout__area--center {
+    /*background-color: rgba(117, 134, 150, .6);*/
+}
+
+.chart-page .chart-container {
+    border: 1px solid;
+    background: #fff
+}
+body, .chart-controls-bar, #footer-chart-panel {
+    background-color: rgba(117, 134, 150, .6) !important;
+}
+
+body.chart-page {
+    background-color: #282060 !important;
+}
